@@ -1,11 +1,11 @@
 A simplified troubleshooting repository for Angular 2 compilation problem.
 
-git clone https://github.com/VilleSalonen/angular2-troubleshooting/
-cd angular2-troubleshooting
-npm install
-typings install
-cd client
-tsc
+    git clone https://github.com/VilleSalonen/angular2-troubleshooting/
+    cd angular2-troubleshooting
+    npm install
+    typings install
+    cd client
+    tsc
 
 Last command results in:
 
